@@ -41,7 +41,7 @@ header .container{
 
 #header-bg{
     height: 90vh;
-    background: url(/img/bg.jpg) center/cover;
+    background: url(img/bg.jpg) center/cover;
     position: relative;
     font-family: "Playfair Display";
     text-align: center;
